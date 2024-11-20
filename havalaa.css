@@ -1,0 +1,55 @@
+.A{
+    border-radius: 16px;
+    background-color: rgb(255, 166, 0);
+    cursor: pointer;
+    height: 36px;
+    width: 80px;
+    border:none;
+    color: white;
+    text-align: right;
+
+
+}
+.B{
+    border-radius: 16px;
+    color: chocolate;
+    height: 36px;
+    width: 80px;
+    border:none;
+    background-color: white;
+    cursor: pointer;
+
+    
+}
+.c{
+    cursor: pointer;
+    height: 36px;
+    width: 100px;
+    border:none;
+    background-color: indigo;
+    color: brown;
+    border-radius: 16px;
+}
+p4{
+    text-align: right;
+}
+p6{
+    text-align: right;
+}
+footer{
+    text-align: right;
+    button{
+        border-radius: 2px;
+        height: 25px;
+        width: 178px;
+        background-color: darkslateblue;
+        color: brown;
+
+    }
+}
+.D{
+    text-align: right;
+}
+.E{
+    text-align: left;
+}
